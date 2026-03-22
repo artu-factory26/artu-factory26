@@ -94,20 +94,20 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
 
 <div align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choco-latito29&theme=slateorange" alt="Perfil" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choco-latito29&theme=slateorange" alt="Lenguajes" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artu-factory26&theme=slateorange" alt="Perfil" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artu-factory26&theme=slateorange" alt="Lenguajes" />
   
   <br/>
 
   <h3>📡 Telemetría de Red</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=choco-latito29&bg_color=0d1117&color=e88c3a&line=e88c3a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artu-factory26&bg_color=0d1117&color=e88c3a&line=e88c3a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choco-latito29&style=flat-square&label=VISITAS&color=e88c3a" alt="Visit Counter" />
+  <img src="https://komarev.com/ghpvc/?username=artu-factory26&style=flat-square&label=VISITAS&color=e88c3a" alt="Visit Counter" />
 </p>
 
 <p align="center">
