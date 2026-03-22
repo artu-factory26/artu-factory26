@@ -26,7 +26,7 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
 
 <div align="left">
   <h3>📫 Central de Comunicaciones</h3>
-  <a href="https://discord.gg/smp7hwrXr4" target="_blank">
+  <a href="https://discord.gg/bTRqJgMHjK" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Unirse_al_Servidor-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   <br/> <a href="https://www.instagram.com/artufactory/" target="_blank">
